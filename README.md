@@ -3,8 +3,9 @@ As a structural engineering researcher at Purdue University Lyles School of Civi
 We are working on a Python GUI to run railroad bridge simulations. I took the current backend code and mocked up aesthetically pleasing interfaces.
 
 The first part is an analysis page.
-
+![](AnalysisP1.png)
+![](AnalysisP2.png)
 
 The second part is building a train.
-
+![](TrainBuild.png)
 
